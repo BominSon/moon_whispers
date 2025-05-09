@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1039441228304",
+    "project_id": "moon-whispers-sbm-250509",
+    "storage_bucket": "moon-whispers-sbm-250509.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039441228304:android:0e28f2976a55c7f279d095",
+        "android_client_info": {
+          "package_name": "com.example.moon_whispers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAona1iIsTel2q5jeGrZkd0cOaOuz6vCNg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
